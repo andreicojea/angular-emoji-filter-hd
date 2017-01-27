@@ -1,3 +1,8 @@
+### Fork info
+
+Replaced `:bowtie:` with `:slightly_smiling_face:` emoji :)
+
+
 # AngularJS Emoji Filter HD
 =========
 
